@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+  }
+  
+  main {
+    padding: 100px;
+  }
+  
+  #gallery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+  
+  .card {
+    width: 20%;
+  
+  }
+  
+  img {
+    width: 100%;
+  
+  }
+  
